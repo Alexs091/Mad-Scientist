@@ -1,0 +1,118 @@
+﻿Knowledge is power
+power leads the conflicts
+but intelligence can prevent wars
+
+El protagonista esta en el suelo, inconsciente, y se levanta preguntandose dónde se encuentra y buscará
+algo en su chaqueta con frenesí.
+Relata la cantidad de enemigos que hubieran podido dejarle inconsciente sin que alguien tan
+inteligente como él se hubiera dado cuenta.(darth vader, ejemplos de villanos sacados fuera del contexto)
+Se da cuenta de que corre peligro y busca su amuleto para usarlo, llamando a su mecha, pero no llega y queda en ridiculo.
+En ese instante decide buscar alguna manera de salir de la habitación en la que se encuentra para volver a su laboratorio
+y conseguir sus preciados inventos para combatir al enemigo(hablará de sus cocodrilos mutantes espaciales, sus inventos ridiculos a primera vista)
+en ese instante tendremos el control del personaje y se nos explicaran ciertos conceptos básicos del juego:
+-Salir de la instalación es la prioridad.
+-Hay puertas y deben ser abiertas con un mecanismo de seguridad.
+-El escenario es nuestro amigo, habrán elementos que sirvan en nuestra jugabilidad.
+Al comenzar el juego, nuestro objetivo será encontrar aquello que el protagonista busca con tanta ansia, y que encontraremos en el siguiente nivel.
+
+(comprobar si es necesario que la puerta del primer nivel este abierta, que el profesor haya caido y 
+el artefacto haya caido al siguiente nivel aproposito)
+
+Al salir de la primera pantalla y haber explicado estos conceptos al usuario, el profesor encontrará un artefacto que reconocerá.
+Al reconocerlo avisará al usuario que es algo de lo que nunca se desprende cuando sale de casa.
+Este artefacto será el que servirá a lo largo del juego como jugabilidad principal, y será presentado como un objeto ridículo a primera vista.
+El profesor le dará la máxima importancia al mismo, mientras el usuario DEBE pensar que solo es un invento que no la tiene, que no serviria para nada peligroso.
+Este dispositivo no será el unico que encuentre, pero será el primero, y el que marque el juego como una entidad.
+Los controles se basarán en este invento, y será una pistola transformadora de materia. Tendrá un cono de iluminación que el usuario podrá ver, 
+y con el que hay que apuntar a un objeto que se encuentre en la habitación en la que nos encontremos para transformarse en él, y obtener
+sus propiedades físicas, sin perder la capacidad de moverse.
+Habrá un gadget que le permita al profesor mejorar el campo de visión.(oculus valve)(pensar cuando conseguir este gadget, si al principio de la historia o al principio del juego)
+El juego permitirá transformarse en un número limitado de objetos que permitan al usuario obtener ciertas propiedades para poder llegar al final de la habitación.
+El profesor intentará usar esta pistola para transformarse en objetos tanto grandes como pequeños, mostrando las limitaciones del mismo
+(haciendo que el usuario entienda que objetos sirven como jugabilidad, y cuales debe obviar jugablemente)
+Esos objetos podrán ser:
+
+-Un objeto rebotante, que pueda flotar: una pelota.
+-Un objeto pesado, que sea complicado de mover, y que se hunda: un yunque, una estatuilla, una bola de bolos...
+-Un objeto liviano, que pueda ser levantado por un ventilador, y que pierda sus propiedades al mojarse: un avion de papel.
+
+El resto de niveles que serviran de tutorial, usaran cada una de estas propiedades de manera sencilla, y con una dificultad muy simple.
+Haciendo que los puzzles se compliquen a la hora de usar todas esas propiedades al mismo tiempo.
+
+El ambiente del comienzo debe ser un sótano descuidado, lo más parecido a una situación desconocida
+para el usuario, que el se crea la paranoia del protagonista.
+El juego deberá avanzar cambiando los distintos escenarios, haciendo que parezca que de verdad está saliendo de un sótano hacia la superficie.
+Durante todo el juego, habran cámaras que controlen la posición del jugador, y que sean difíciles de encontrar a primera vista.
+El protagonista las obviará durante todo el juego.
+¿Las cámaras seran trofeos? ¿seran objetos que un "gamer" compraria, pero que un amante de la industria si?
+Habrá referencias a grandes series y juegos, mostrando lo friki que es el protagonista, y lo obsesionado que está con ellos, haciendo
+que el usuario los reconozca, y vea que el profesor no es mas que un friki colgao que hace inventos para masturbarse con su propio
+fanservice.
+
+Habrá distintas conversaciones del protagonista con el entorno, mostrando su incomprensión con el, y haciendo que el mismo protagonista
+llegue a la conclusión de que alguien le ha copiado sus inventos, y le ha encerrado en su sótano con intención de guardarle como trofeo
+por su escultural cuerpo, y su increible mente prodigiosa.(en ese instante se ridiculizará al protagonista haciendo que el usuario no lo crea)
+Encontrará inventos que él mismo conoce, y se replanteará si realmente son sus inventos y alguien los ha robado de su laboratorio.
+Usará algunos de ellos de manera graciosa, y todos ellos serán inventos que no sirvan para nada en concreto a primera vista, pero que
+puedan tener alguna repercusión en un mundo real.
+Habrá un momento en el que el protagonista espere una reacción graciosa del usuario, apelando al chiste que acabe de decir. Este chiste
+será o de muy mal gusto, o muy ridiculo, y al no haber risa posible el protagonista buscará risa en aquellos que le estén viendo, dirigiendose
+directamente a ellos como espectadores.
+
+El juego llegará a una zona en la que no haya ningun puzzle, a la mitad de duracion del juego, en la que el profesor ande
+de una punta a otra de la pantalla, mostrando al fondo un cristal que ocupe toda la estancia, y en el que se encuentre el mecha que el
+habia intentado llamar al principio del juego, notandose en el mismo que está desmantelado, y que podria ser un arma peligrosa para la 
+humanidad. Haciendo que el usuario reconsidere la situacion psicológica del protagonista, y la capacidad de invento del mismo.
+Al acabar esta habitación, en la que nuestro movimiento será mas lento y la escena debe ser cómica a la hora de abrir la puerta del final del nivel,
+habrá un flashback en el que volveremos a la vida del profesor momentos antes del principio del juego.
+
+En estos momentos mostraremos parte de la historia, creando espectación al usuario de porque alguien buscaria a nuestro profesor
+para encerrarle, sin saber nunca donde esta encerrado, y haciendo que el usuario se pregunte porqué el profesor se quedo inconsciente
+y perdió la memoria.
+
+En estos niveles, el artefacto se usará de la misma manera, y la jugabilidad será la misma, pero el profesor será más serio
+y estará mejorando el artefacto que lleva consigo, haciendo que el usuario no sepa en qué esta trabajando.
+Deberá hacerlo superando ciertas pruebas, ya que la instalación está preparada para tener seguridad, y en estas pantallas los puzzles
+serán los más complicados, y no habrá ninguna cámara en ellos.
+Estos niveles tendrán más aspecto de laboratorio real, pero como si fuera un sótano mucho más profundo y oscuro en el que
+se vean grandes proyectos al fondo, y que se vea la capacidad creadora del profesor.
+
+En el momento en el que acabe esta parte "seria", se creará uno o más niveles en los que el profesor
+decida autodestruir el laboratorio subterráneo, y sea un nivel de contrarreloj medido por un nivel
+de agua/lava que subirá y habrá que llegar al final antes de ese tiempo.
+(Decisión de guión) Quitarse o ponerse gafas
+
+Al terminar esta parte jugable, el protagonista entrará en una sala en la que si se encuentren estas cámaras, y sin que el 
+profesor de aviso al usuario, éste se empezará a comportar de manera cómica, y se verá como el profesor propicia la caída que
+comienza el juego en la primera pantalla.
+
+Al acabar este nivel volveremos a la pantalla de la que salimos cuando vimos el mecha, y a partir de aquí las salas se parecerán más
+a un sitio habitable, y menos a un sótano inhabitable.
+Cuando el profesor vea estos escenarios, avisará al usuario, y intentará crear una situación comica, en la que haga creer al espectador
+que le han copiado hasta su casa, que no tienen respeto ni por su vivienda.
+
+El final del juego deberá ser una situacion en la que el profesor vaya a salir de la "carcel" en la que se encuentra, hacia la superfície,
+pero mostrando al usuario, que la locura en la que se esta apoyando es ridícula a proposito.
+Alguien llamará a la puerta, y serán dos personas disfrazadas de una manera ridícula de Científicos, que soltarán cliches mal montados
+y que parecerán a primera vista al espectador como dos personas fuertes y que forman parte de una organización gubernamental como
+militares o operaciones especiales.
+En este momento, el profesor hablará a estos como sus colegas, y les seguirá el rollo riendose de ellos sin que los propios SWAT se den cuenta de ello
+haciendo que el usuario se de cuenta de que el científico lleva riendose de ellos todo el juego.
+Cuando los SWAT hablen al protagonista de salir de aquella cárcel, siguiendole el juego que ha traido el científico durante todo el juego, 
+cuestionaremos a los usuarios a pensar sobre si de verdad estaban monitorizandole durante nuestra aventura.
+Y en ese momento, el profesor será recogido por los SWAT de una manera en la que no tenga libertad de moverse, y en la que lleven al mismo a un HUMMER
+pintado como una furgoneta de trabajo de mala manera, en la salida de la casa.
+Al final veremos cómo la furgoneta se aleja llevando a nuestro amigo hasta una instalación que este construida al revés que de la que ha salido.
+Una instalación hecha hacia arriba, con pretensiones hacia el exterior, ostentosa, que muestre poder y que tenga banderas de paises inexistentes.
+
+¿y el juego terminará con la ciudad entera teniendo un apagón y una coletilla del protagonista?
+¿y el juego termina con una copia del profesor, que al momento de sacarla no sea un profesor, sino una pelota?
+¿que hace aqui una pelota.... y ahora que?
+
+Niveles finales con scroll superior(agua persiguiendote, o gasolina, o whatever), y puzzles con doble dirección.
+
+INTERFAZ
+
+Limites de objetos a la hora de mantenerlos en el dispositivo.
+La interfaz será la que el protagonista vea del propio dispositivo, mostrando las posibilidades dentro de la interfaz.
+Te podras destransformar siempre.
