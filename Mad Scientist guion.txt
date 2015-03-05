@@ -116,3 +116,10 @@ INTERFAZ
 Limites de objetos a la hora de mantenerlos en el dispositivo.
 La interfaz será la que el protagonista vea del propio dispositivo, mostrando las posibilidades dentro de la interfaz.
 Te podras destransformar siempre.
+
+OPCIONALES
+
+Al acabar el juego aparecerá una opcion nueva en el menu de inicio que serán los time trials.
+Estos time trials tendran un cronómetro y un ranking de tiempos de bronce a oro.
+Los tiempos de la partida original se mantendrán cuando veas la selección de niveles.
+Habrá ranking mundial de los tiempos de las partidas online.
